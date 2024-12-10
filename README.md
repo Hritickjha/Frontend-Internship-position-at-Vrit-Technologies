@@ -61,5 +61,14 @@ This repository includes multiple tasks showcasing frontend development skills, 
 
 ---
 
-## Folder Structure  
+
+---
+
+## Contact  
+
+For any questions or feedback, reach out to:  
+**Hritick Jha**  
+- GitHub: [Hritickjha](https://github.com/Hritickjha)  
+- Email: *jhahritick@gmail.com*  
+
 
